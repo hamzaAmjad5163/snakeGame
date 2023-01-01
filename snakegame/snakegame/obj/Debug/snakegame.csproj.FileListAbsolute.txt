@@ -1,0 +1,11 @@
+C:\Users\hamza\source\repos\snakegame\snakegame\bin\Debug\snakegame.exe.config
+C:\Users\hamza\source\repos\snakegame\snakegame\bin\Debug\snakegame.exe
+C:\Users\hamza\source\repos\snakegame\snakegame\bin\Debug\snakegame.pdb
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.Form1.resources
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.Properties.Resources.resources
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.exe
+C:\Users\hamza\source\repos\snakegame\snakegame\obj\Debug\snakegame.pdb
